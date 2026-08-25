@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 8000,
+  "model": "your-model",
+  "api_key": "",
+  "system_prompt_file": "system_prompt.txt",
+  "tools_file": "tools.json",
+  "timeout": 180,
+  "max_tokens": 1024
+}

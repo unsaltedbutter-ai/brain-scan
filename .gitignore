@@ -1,0 +1,7 @@
+# Personal-data review working doc — contains the owner's real answers.
+# Do NOT commit.
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
